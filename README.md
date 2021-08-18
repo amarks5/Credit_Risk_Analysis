@@ -27,5 +27,5 @@ We wanted to analyze all the factors from the loan_stats csv to help us predict 
 ![alt text](https://github.com/amarks5/Credit_Risk_Analysis/blob/main/images/easy_ensemble.PNG)
 
 ## Summary:
-
+The first four models we ran were low in accuracy and were not balanced when it came to precision and recall scores (ideally you want precision and recall to be pretty balanced). The ensemble classifiers definitely had the higher accuracy. It appears the Easy Ensemble had the best balance of all the models with a high accuracy score, precision and recall scores. I recommend using the ensemble classifiers.
 
